@@ -1,0 +1,14 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "48.0",
+    "packageAliases": {
+        "Salesforce Agile Accelerator": "04t3l000002D7PeAAK"
+    }
+}
