@@ -2,7 +2,7 @@
 
 ## Steps to reproduce
 
-  1. Obtain a Duv Hub Trial Org
+  1. Obtain a Dev Hub Trial Org
   2. Clone this repo
   3. Authenticate the Dev Hub
   4. Authenticate a sandbox org (optional)
